@@ -11,8 +11,8 @@
 - **Tools:** Git
 
 ### My best Projects:
-- [Telegram bot for learning English](https://github.com/makusax/English-bot)
-- [Automation with Python](https://github.com/makusax/Python-project)
+- [Telegram bot for learning English](https://github.com/makusax/English-telegram-bot)
+- [Automation with Python](https://github.com/makusax/Project-Python)
 
 ### Связь со мной:
 - 📧 Email: andrewbzinvest@gmail.com
