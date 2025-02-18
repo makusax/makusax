@@ -19,3 +19,5 @@
 - 💬 Telegram: [@theandrewchamp](https://t.me/theandrewchamp)
 
 ![Статистика](https://github-readme-stats.vercel.app/api?username=makusax&show_icons=true&theme=radical)
+![Языки](https://github-readme-stats.vercel.app/api/top-langs/?username=makusax&layout=compact&theme=radical)
+![Активность](https://github-readme-activity-graph.vercel.app/graph?username=makusax&theme=github)
