@@ -7,7 +7,6 @@
 
 ### Мои навыки:
 - **Language proramming:** Python, JavaScript
-- **Frameworks:** Django
 - **Tools:** Git
 
 ### My best Projects:
