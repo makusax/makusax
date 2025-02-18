@@ -6,7 +6,7 @@
 - 🚀 Study everyday.
 
 ### Мои навыки:
-- **Language proramming:** Python, JavaScript
+- **Languages proramming:** Python, JavaScript
 - **Tools:** Git
 
 ### My best Projects:
