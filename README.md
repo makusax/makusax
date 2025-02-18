@@ -17,3 +17,5 @@
 ### Связь со мной:
 - 📧 Email: andrewbzinvest@gmail.com
 - 💬 Telegram: [@theandrewchamp](https://t.me/theandrewchamp)
+
+![Статистика](https://github-readme-stats.vercel.app/api?username=makusax&show_icons=true&theme=radical)
