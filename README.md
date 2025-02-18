@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hwllo everyone , it's makusax! 👋
 
-<!--
-**makusax/makusax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Обо мне:
+- 🐍 Python-developer.
+- 🤖 Developing BOT to Telegram.
+- 🚀 Study everyday.
 
-Here are some ideas to get you started:
+### Мои навыки:
+- **Language proramming:** Python, JavaScript
+- **Frameworks:** Django
+- **Tools:** Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My best Projects:
+- [Telegram bot for learning English](https://github.com/makusax/English-bot)
+- [Automation with Python](https://github.com/makusax/Python-project)
+
+### Связь со мной:
+- 📧 Email: andrewbzinvest@gmail.com
+- 💬 Telegram: [@theandrewchamp](https://t.me/theandrewchamp)
