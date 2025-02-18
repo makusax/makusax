@@ -1,4 +1,4 @@
-# Hwllo everyone , it's makusax! 👋
+# Hello everyone , it's makusax! 👋
 
 ### Обо мне:
 - 🐍 Python-developer.
