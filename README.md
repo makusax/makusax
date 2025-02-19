@@ -1,11 +1,11 @@
 # Hello everyone , it's makusax! 👋
 
-### Обо мне:
+### About me:
 - 🐍 Python-developer.
 - 🤖 Developing BOT to Telegram.
 - 🚀 Study everyday.
 
-### Мои навыки:
+### My skills:
 - **Languages proramming:** Python, JavaScript
 - **Tools:** Git
 
@@ -13,7 +13,7 @@
 - [Telegram bot for learning English](https://github.com/makusax/English-telegram-bot)
 - [Automation with Python](https://github.com/makusax/Project-Python)
 
-### Связь со мной:
+### Connect with me:
 - 📧 Email: andrewbzinvest@gmail.com
 - 💬 Telegram: [@theandrewchamp](https://t.me/theandrewchamp)
 
