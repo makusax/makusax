@@ -11,7 +11,7 @@
 
 ### My best Projects:
 - [Telegram bot for learning English](https://github.com/makusax/English-telegram-bot)
-- [Automation with Python](https://github.com/makusax/Project-Python)
+- [File Manager](https://github.com/makusax/File-Manager)
 
 ### Connect with me:
 - 📧 Email: andrewbzinvest@gmail.com
